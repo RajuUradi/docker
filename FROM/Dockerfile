@@ -1,1 +1,1 @@
-FROM redhat/ubi9:latest-source
+FROM redhat/ubi8-micro:latest
